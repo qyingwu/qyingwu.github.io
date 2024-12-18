@@ -16,7 +16,7 @@ Professional Experience
 At Amazon, I've been leading impactful projects including:
 * Development of full-stack platforms managing employee case data using React, TypeScript, and Java
 * Integration of AWS services (S3, Lambda, DynamoDB, CloudWatch, SNS) for scalable operations
-* Implementation of GenAI solutions that improved HR productivity by 40%
+* Implementation of GenAI solutions that improved HR productivity
 * Building automated systems for streamlined workflows and improved efficiency
 
 Education
