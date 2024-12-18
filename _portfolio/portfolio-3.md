@@ -72,7 +72,6 @@ A comprehensive series of deep learning projects implemented using PyTorch, focu
   - Developed efficient data processing pipeline for training and inference
 
 ### 3. Advanced CNN Optimization and Semantic Segmentation
-<img src='/images/dllab3.png'>
 - **Enhanced CNN Classification**:
   - Achieved 90%+ classification accuracy through advanced optimization techniques:
     - Implemented input normalization and data augmentation pipeline
