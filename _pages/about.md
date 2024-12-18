@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! I’m Qiying(Erica), a software engineer at Amazon, and a graduate student ad UT Austin"
 author_profile: true
 redirect_from: 
   - /about/
