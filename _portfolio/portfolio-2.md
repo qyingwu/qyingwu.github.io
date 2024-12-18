@@ -4,7 +4,6 @@ excerpt: "A robust implementation of the distributed 2PC protocol leveraging Rus
 collection: portfolio
 ---
 
-# Two-Phase Commit (2PC) Protocol Implementation
 
 ## Project Overview
 Developed a comprehensive implementation of the Two-Phase Commit protocol using Rust, leveraging the language's powerful type system and memory safety guarantees for distributed transaction management.

@@ -1,10 +1,9 @@
 ---
-title: "Barnes-Hut Algorithm Implementation (C++)"
+title: "Parallel Barnes-Hut Algorithm N-body Simulation (C++)"
 excerpt: "Parallel N-body simulation using Barnes-Hut algorithm and MPI for distributed computing, achieving near-linear speedup<br/><img src='/images/simulation.png'>"
 collection: portfolio
 ---
 
-# Parallel Barnes-Hut N-body Simulation
 
 ## Project Overview
 Implemented a sophisticated parallel N-body simulation using the Barnes-Hut algorithm with MPI for distributed computing. This project demonstrates advanced parallel programming concepts and optimization techniques for complex physical simulations.
