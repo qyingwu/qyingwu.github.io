@@ -11,34 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science (Machine Learning focus), University Texas, Austin 2025 (expected)
+* B.S. in Computer Science, University of California, Berkeley, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2020: Amazon Payment
+  * Projects includes: Alexa payment related projects
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Amazon PXT
+  * Projects includes: HR systems
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2024: Research Assistant
+  * University of California, Merced
+  * Projects includes: AlphaGo3 acceleration related analysis
+  * Supervisor: Professor Li Dong
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Skill 1: Python, C++, Java, SQL, Linux, GO, Rust, TypeScript
+* Skill 2: AWS(S3, DynamoDB, Lambda, EC2, SQS, SNS), Docker, PyTorch, CUDA, OpenMPI, MPICH
 * Skill 3
 
   
