@@ -11,10 +11,11 @@ About Me
 
 I'm a software engineer with over 3 years of experience in full-stack development, cloud computing (AWS), and scalable systems. Currently, I'm working at Amazon while pursuing my M.S. in Computer Science at UT Austin, focusing on Machine Learning.
 
-Bio:
+Bio
 ======
 I graduated in late 2019 from UC Berkeley with a B.S in Computer Science. In early 2020, I joined Amazon as a Software Engineer to work on an Alexa Payment services. While I enjoy working at Amazon, I got hooked on Machine Learning and decided that I wanted to pursue higher education focusing Machine Learning. By late 2021 I had been admited to CS department in UT Austin as Masters student. I was thrilled to get the change to sharpen the saw. At the end of 2022, I was contacted by one of the Amazon teams to join back the company and continue work as a Software Engineer with the opportunity to work on interesting projects, so I decided to take the opportunity since there will be ML related projects. While working at Amazon, I didn't pause my education, but taking classes at a slower pace. 
 
+Outside of work, I enjoy reading, cycling, fishing and carpentry.
 
 Professional Experience
 ======
