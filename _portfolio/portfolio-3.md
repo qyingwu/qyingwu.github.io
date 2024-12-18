@@ -11,6 +11,7 @@ A comprehensive series of deep learning projects implemented using PyTorch, focu
 ## Key Projects
 
 ### 1. Image Classification with SuperTuxKart Dataset
+<img src='/images/dllab1.png'>
 - **Dataset Implementation**:
   - Developed custom PyTorch DataLoader for SuperTuxKart image dataset
   - Implemented efficient image processing pipeline handling 64x64 RGB images
@@ -37,6 +38,7 @@ A comprehensive series of deep learning projects implemented using PyTorch, focu
 
 
 ### 2. Advanced CNN Architecture for SuperTuxKart Classification
+<img src='/images/dllab2.png'>
 - **CNN Model Architecture**:
   - Designed and implemented a custom CNN classifier achieving >85% test accuracy
   - Developed sophisticated convolutional layers for efficient feature extraction
@@ -70,6 +72,7 @@ A comprehensive series of deep learning projects implemented using PyTorch, focu
   - Developed efficient data processing pipeline for training and inference
 
 ### 3. Advanced CNN Optimization and Semantic Segmentation
+<img src='/images/dllab3.png'>
 - **Enhanced CNN Classification**:
   - Achieved 90%+ classification accuracy through advanced optimization techniques:
     - Implemented input normalization and data augmentation pipeline
@@ -113,6 +116,8 @@ A comprehensive series of deep learning projects implemented using PyTorch, focu
 
 
 ### 4. Point-Based Object Detection System
+<img src='/images/dllab4.png'>
+<img src='/images/dllab4_2.png'>
 - **Custom Object Detector Implementation**:
   - Developed point-based object detection system for SuperTuxKart
   - Implemented detection for three object classes:
@@ -153,6 +158,7 @@ A comprehensive series of deep learning projects implemented using PyTorch, focu
   - Achieved test set performance exceeding baseline requirements
 
 ### 5. Vision-Based Autonomous Driving System
+<img src='/images/dllab5.png'>
 - **Low-Level Controller Development**:
   - Implemented precise steering control system for SuperTuxKart
   - Developed advanced control algorithms for:
