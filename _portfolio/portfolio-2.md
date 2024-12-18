@@ -1,6 +1,6 @@
 ---
 title: "Two-Phase Commit Protocol Implementation in Rust"
-excerpt: "A robust implementation of the distributed 2PC protocol leveraging Rust's safety features<br/><img src='/images/2pc-diagram.png'>"
+excerpt: "A robust implementation of the distributed 2PC protocol leveraging Rust's safety features<br/><img src='/images/participantLog.png'> <br/><img src='/images/coordinatorLog.png'>"
 collection: portfolio
 ---
 
