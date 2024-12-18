@@ -1,6 +1,6 @@
 ---
 title: "Parallel CUDA KMeans Clustering (C++/CUDA)"
-excerpt: "High-performance implementation of KMeans clustering algorithm using CUDA parallel computing<br/><img src='totalSpeedUp.png'>"
+excerpt: "High-performance implementation of KMeans clustering algorithm using CUDA parallel computing<br/><img src='/images/totalSpeedUp.png'>"
 collection: portfolio
 ---
 
@@ -34,4 +34,4 @@ The implementation demonstrates impressive speedup factors:
 ## Results
 The graph above shows the total speedup achieved across different dataset sizes, demonstrating the scalability and efficiency of the parallel implementation.
 
-[View Project on GitHub](#) <!-- Add your GitHub link here -->
+[View Project on GitHub](https://github.com/qyingwu/parallel_systems/blob/master/lab2/Lab2Report/Lab2.pdf)
