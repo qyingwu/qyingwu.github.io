@@ -1,6 +1,6 @@
 ---
 title: "Parallel CUDA KMeans Clustering (C++/CUDA)"
-excerpt: "High-performance implementation of KMeans clustering algorithm using CUDA parallel computing<br/><img src='/totalSpeedUp.png'>"
+excerpt: "High-performance implementation of KMeans clustering algorithm using CUDA parallel computing<br/><img src='totalSpeedUp.png'>"
 collection: portfolio
 ---
 
