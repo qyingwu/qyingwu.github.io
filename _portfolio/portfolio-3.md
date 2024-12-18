@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning Projects in Computer Vision"
+title: "Deep Learning Projects in Computer Vision (Python/PyTorch)"
 excerpt: "A collection of deep learning projects focusing on image classification and autonomous driving <br/><img src='/images/controller.png'>"
 collection: portfolio
 ---

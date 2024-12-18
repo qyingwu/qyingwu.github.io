@@ -4,7 +4,6 @@ excerpt: "High-performance implementation of KMeans clustering algorithm using C
 collection: portfolio
 ---
 
-# CUDA KMeans Clustering Implementation
 
 ## Project Overview
 This project implements a highly optimized version of the KMeans clustering algorithm using CUDA parallel computing framework. By leveraging the massive parallel processing capabilities of GPUs, the implementation achieves significant speedup compared to traditional CPU-based approaches.
@@ -36,7 +35,7 @@ This project implements a highly optimized version of the KMeans clustering algo
 - Simplified parallel algorithms and data structures
 - Automatic optimization of common operations
 - Excellent balance of performance and code maintainability
-<img src='/images/cudaThrustSpeedup.png'>
+<img src='/images/cudaThrustSpeedUp.png'>
 
 ## Performance Comparison
 - Global Memory: Baseline performance
