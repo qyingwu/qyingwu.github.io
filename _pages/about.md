@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a software engineer with over **4 years of experience** in full-stack development, cloud computing (**AWS**), and scalable backend systems. I have hands-on experience working with **Kubernetes**, **Docker**, and **Kafka** to build resilient, microservice-based architectures.
 
-Currently, I'm working at **Visa Inc.** on real-time payment infrastructure while pursuing my **M.S. in Computer Science** at **UT Austin**, focusing on **Machine Learning**.
+Currently, I'm working at **Visa Inc.** on payment infrastructure while pursuing my **M.S. in Computer Science** at **UT Austin**, focusing on **Machine Learning**.
 
 ---
 
