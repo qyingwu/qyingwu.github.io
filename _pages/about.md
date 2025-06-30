@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I'm Qiying (Erica), a Software Engineer at Amazon and Graduate Student at UT Austin"
+title: "Hi! I'm Qiying (Erica), a Software Engineer at VISA Inc. (ex Amazonian) and Graduate Student at UT Austin"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,21 +9,28 @@ redirect_from:
 
 About Me
 
-I'm a software engineer with over 3 years of experience in full-stack development, cloud computing (AWS), and scalable systems. Currently, I'm working at Amazon while pursuing my M.S. in Computer Science at UT Austin, focusing on Machine Learning.
+I'm a software engineer with over 4 years of experience in full-stack development, cloud computing (AWS), and scalable backend systems. Currently, I'm working at Visa Inc. on payment infrastructure while pursuing my M.S. in Computer Science at UT Austin, where I focus on Machine Learning.
 
 Bio
+I graduated in late 2019 from UC Berkeley with a B.S. in Computer Science. In early 2020, I joined Amazon as a Software Engineer to work on Alexa Payment Services. While I enjoyed the technical challenges at Amazon, I became increasingly interested in Machine Learning and decided to pursue higher education.
 
-I graduated in late 2019 from UC Berkeley with a B.S in Computer Science. In early 2020, I joined Amazon as a Software Engineer to work on Alexa Payment services. While I enjoy working at Amazon, I got hooked on Machine Learning and decided that I wanted to pursue higher education focusing Machine Learning. By late 2021 I had been admited to CS department in UT Austin as Masters student. I was thrilled to get to sharpen the saw. At the end of 2022, I was contacted by one of the Amazon teams to join back the company and continue work as a Software Engineer with the opportunity to work on interesting projects, so I decided to take the opportunity since there will be ML related projects. While working at Amazon, I didn't pause my education, but taking classes at a slower pace. 
+By late 2021, I was admitted to the Computer Science M.S. program at UT Austin, focusing on ML. In 2022, I rejoined Amazon to work on internal HR systems, including projects involving Generative AI. I continued my graduate studies alongside full-time work, taking classes at a manageable pace.
 
+In 2025, I transitioned to Visa, where I now work on high-throughput, real-time payment processing systems—building scalable infrastructure for clearing and settlement, improving system performance, and driving operational observability.
 Outside of work, I enjoy reading, cycling, fishing and carpentry.
 
 Professional Experience
 ======
-At Amazon, I've been leading impactful projects including:
+At Amazon, I led several impactful projects focused on scalability, automation, and intelligent systems:
 * Development of full-stack platforms managing employee case data using React, TypeScript, and Java
 * Integration of AWS services (S3, Lambda, DynamoDB, CloudWatch, SNS) for scalable operations
 * Implementation of GenAI solutions that improved HR productivity (Summarization of chat/call conversations through Amazon connect)
 * Building automated systems for streamlined workflows and improved efficiency
+
+At Visa, I’ve been working on mission-critical backend systems within the OVN Payment Platform:
+* Designed and implemented real-time alerting and monitoring for clearing valuation, enabling rapid issue detection.
+* Optimized the Real-Time Valuation Processor, reducing message completion latency to under 20 ms.
+* Developed a manual purging job to clean up stale advice entries and generate audit-compliant reports for downstream systems.
 
 Education
 ======
@@ -43,6 +50,11 @@ Technical Projects
 * Created Barnes-Hut N-body simulation using MPI with O(n log n) complexity
 
 **Deep Learning**
+* Designed and trained neural networks for image classification
+* Implemented CNNs with advanced techniques for improved accuracy
+* Developed vision-based autonomous driving systems using PyTorch
+
+**Advanced Deep Learning**
 * Designed and trained neural networks for image classification
 * Implemented CNNs with advanced techniques for improved accuracy
 * Developed vision-based autonomous driving systems using PyTorch
