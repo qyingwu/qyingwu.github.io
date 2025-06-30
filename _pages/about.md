@@ -72,6 +72,9 @@ Led several impactful projects focused on scalability, automation, and intellige
 
 ### Advanced Deep Learning
 - Designed and implemented low-memory variants of a large deep network using half precision, LoRA, QLoRA, and 4-bit quantization in PyTorch.
+- Developed an auto-regressive image generation and compression model using a custom BSQ quantizer and transformer-based decoder in PyTorch.
+- Built a unit conversion language model using in-context learning, LoRA fine-tuning, and rejection-based RL (RFT) on SmolLM2 for reasoning-aware generation.
+- Built and fine-tuned a vision-language model for SuperTuxKart using a custom image-question-answer dataset and LoRA-based training pipeline.
 
 ---
 
