@@ -1,6 +1,6 @@
 ---
 title: "Auto-Regressive Image Generation & Compression (PyTorch)"
-excerpt: "Built a custom auto-regressive image generator and BSQ quantizer for compressing SuperTuxKart game images using deep learning techniques in PyTorch<br/><img src='/images/bsq_generation.png'>"
+excerpt: "Built a custom auto-regressive image generator and BSQ quantizer for compressing SuperTuxKart game images using deep learning techniques in PyTorch<br/><img src='/images/bsq_diagram.png'>"
 collection: portfolio
 ---
 
@@ -24,12 +24,16 @@ Built a complete deep learning pipeline for **auto-regressive image generation a
   - Designed and trained a **causally masked transformer decoder** to model next-token prediction
   - Flattened patch tokens and learned sequential dependencies with cross-entropy loss
   - Generated coherent low-resolution image patches and reconstructed them via decoder
-  <img src='/images/gen_pos_2.png'>
+  <img src='/images/gen_pos_2.png' width='300' style='image-rendering: pixelated;'>
 
 - **Image Generation & Sampling**:
   - Implemented sampling loop for generating novel token sequences and decoding to full images
   - Compared generation quality with and without positional embeddings
   - Supported generation from scratch or conditional inputs
+  <br/>With positional embeddings:
+  <br/><img src='/images/gen_pos_1.png' width='180' style='image-rendering: pixelated;'> <img src='/images/gen_pos_2.png' width='180' style='image-rendering: pixelated;'> <img src='/images/gen_pos_3.png' width='180' style='image-rendering: pixelated;'>
+  <br/>Without positional embeddings:
+  <br/><img src='/images/gen_nopos_1.png' width='180' style='image-rendering: pixelated;'> <img src='/images/gen_nopos_2.png' width='180' style='image-rendering: pixelated;'> <img src='/images/gen_nopos_3.png' width='180' style='image-rendering: pixelated;'>
 
 - **Optional Compression (Extra Credit)**:
   - Explored entropy coding of auto-regressive outputs to reduce image size below **500 bytes per frame**
