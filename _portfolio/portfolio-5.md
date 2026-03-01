@@ -1,6 +1,6 @@
 ---
 title: "Low-Memory Deep Network Optimization (PyTorch)"
-excerpt: "Memory-efficient deep learning with half precision, LoRA, QLoRA, and 4-bit quantization using PyTorch<br/><img src='/images/lowmem-summary.png'>"
+excerpt: "Memory-efficient deep learning with half precision, LoRA, QLoRA, and 4-bit quantization using PyTorch<br/><img src='/images/lowmem-memory-chart.png'>"
 collection: portfolio
 ---
 
