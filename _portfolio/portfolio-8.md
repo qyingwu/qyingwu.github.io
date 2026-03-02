@@ -48,4 +48,6 @@ Built a **vision-language model (VLM)** pipeline that learns to answer questions
 - Achieved >70% test accuracy on visual QA tasks, with potential for 85%+ using advanced filtering
 - Demonstrated end-to-end control over VLM performance via data-centric engineering
 
+<img src='/images/vlm-training-tensorboard.png'>
+
 [View Project on GitHub](https://github.com/qyingwu/advances_dl/tree/main/homework_04_v4)
