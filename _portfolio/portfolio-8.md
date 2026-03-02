@@ -1,6 +1,6 @@
 ---
 title: "Vision-Language Model for SuperTuxKart (VLM + LoRA)"
-excerpt: "Trained a vision-language model on SuperTuxKart data using custom QA generation and LoRA fine-tuning, achieving >70% accuracy on unseen visual queries<br/><img src='/images/vlm-tux-example.png'><br/><img src='/images/vlm-training-tensorboard.png'>"
+excerpt: "Trained a vision-language model on SuperTuxKart data using custom QA generation and LoRA fine-tuning, achieving >70% accuracy on unseen visual queries<br/><img src='/images/vlm-tux-example.jpg'><br/><img src='/images/vlm-training-tensorboard.png'>"
 collection: portfolio
 ---
 
@@ -13,7 +13,7 @@ Built a **vision-language model (VLM)** pipeline that learns to answer questions
   - Parsed raw SuperTuxKart simulation data to extract image annotations and scene metadata
   - Automatically generated question-answer pairs across multiple categories (object count, color, position, etc.)
   - Created a large-scale JSON-based dataset for training with minimal manual annotation
-  <img src='/images/vlm-qa-gen.png'>
+  <img src='/images/vlm-qa-gen.jpg'>
 
 - **LoRA-based Vision-Language Fine-Tuning**:
   - Fine-tuned a pretrained VLM on the generated dataset using LoRA adapters
@@ -28,7 +28,7 @@ Built a **vision-language model (VLM)** pipeline that learns to answer questions
 - **Visualization and Debugging**:
   - Implemented visualization tools to inspect QA pairs and align answers with visual context
   - Validated dataset correctness using image overlays and semantic validation
-  <img src='/images/vlm-visualization-debug.png'>
+  <img src='/images/vlm-visualization-debug.jpg'>
 
 ## Technical Details
 
