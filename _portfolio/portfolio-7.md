@@ -1,6 +1,6 @@
 ---
 title: "Reasoning-Based Unit Conversion with SmolLM2 (LLM + LoRA + RFT)"
-excerpt: "Built a unit conversion language model using in-context learning, LoRA fine-tuning, and rejection-based RL on top of SmolLM2 for reasoning-aware generation"
+excerpt: "Built a unit conversion language model using in-context learning, LoRA fine-tuning, and rejection-based RL on top of SmolLM2 for reasoning-aware generation<br/><img src='/images/hw3-rft-results.png'>"
 collection: portfolio
 ---
 
@@ -54,5 +54,11 @@ Trained a reasoning-capable unit conversion model using **SmolLM2**, combining *
 - Improved accuracy further using LoRA SFT and RFT with CoT data
 - Enabled interpretable unit conversion via step-by-step model reasoning
 - Demonstrated end-to-end LLM training without relying on pretrained pipelines
+
+## Visual Results
+
+<img src='/images/hw3-cot-results.png'>
+<img src='/images/hw3-sft-results.png'>
+<img src='/images/hw3-rft-results.png'>
 
 [View Project on GitHub](https://github.com/qyingwu/advances_dl/tree/main/homework3_v3)
