@@ -1,6 +1,6 @@
 ---
 title: "Reasoning-Based Unit Conversion with SmolLM2 (LLM + LoRA + RFT)"
-excerpt: "Built a unit conversion language model using in-context learning, LoRA fine-tuning, and rejection-based RL on top of SmolLM2 for reasoning-aware generation<br/><img src='/images/unit-conversion-llm.png'>"
+excerpt: "Built a unit conversion language model using in-context learning, LoRA fine-tuning, and rejection-based RL on top of SmolLM2 for reasoning-aware generation"
 collection: portfolio
 ---
 
@@ -27,7 +27,6 @@ Trained a reasoning-capable unit conversion model using **SmolLM2**, combining *
   - Generated diverse CoT responses via temperature sampling and selected correct completions
   - Constructed a dataset of [question, correct reasoning, answer] triples
   - Re-trained model on this enhanced dataset, yielding improved accuracy and interpretability
-  <img src='/images/rft_sampling_success.png'>
 
 - **Evaluation & Generation**:
   - Evaluated model on reasoning steps, answer rate, and generation correctness
