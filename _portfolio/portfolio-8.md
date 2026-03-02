@@ -1,6 +1,6 @@
 ---
 title: "Vision-Language Model for SuperTuxKart (VLM + LoRA)"
-excerpt: "Trained a vision-language model on SuperTuxKart data using custom QA generation and LoRA fine-tuning, achieving >70% accuracy on unseen visual queries<br/><img src='/images/vlm-tux-example.png'>"
+excerpt: "Trained a vision-language model on SuperTuxKart data using custom QA generation and LoRA fine-tuning, achieving >70% accuracy on unseen visual queries<br/><img src='/images/vlm-tux-example.png'><br/><img src='/images/vlm-training-tensorboard.png'>"
 collection: portfolio
 ---
 
