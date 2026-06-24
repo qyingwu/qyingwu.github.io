@@ -12,12 +12,17 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  padding: 1rem;
+  background: rgba(255, 252, 247, 0.82);
+  border: 1px solid rgba(35, 49, 39, 0.08);
+  border-radius: 24px;
+  box-shadow: 0 18px 40px rgba(35, 49, 39, 0.05);
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
     overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
-    padding-top: $masthead-height;
+    padding-top: calc(#{$masthead-height} + 1rem);
   }
 
   @include breakpoint($large) {
@@ -47,7 +52,7 @@
 
   p, li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: 0.82rem;
     line-height: 1.5;
   }
 
@@ -91,11 +96,15 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 28px;
+    box-shadow: 0 20px 32px rgba(35, 49, 39, 0.16);
+    animation: authorPortraitIn 0.7s ease both;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0;
+      border: 6px solid rgba(255, 255, 255, 0.9);
     }
   }
 }
@@ -124,8 +133,9 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-family: $header-font-family;
+  font-size: 1.45rem;
+  line-height: 1;
 }
 
 .sidebar .author__desktop {
@@ -146,6 +156,7 @@
 
 .author__bio {
   margin: 0;
+  color: mix(#fff, $text-color, 18%);
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -245,16 +256,31 @@
 
   a {
     display: block;
-    margin-bottom: 5px;
+    margin-bottom: 7px;
     padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 4px;
+    padding-bottom: 4px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 0.95rem;
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      color: $link-color;
+      text-decoration: none;
     }
+  }
+}
+
+@keyframes authorPortraitIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.98);
+    filter: saturate(0.9);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: saturate(1);
   }
 }
