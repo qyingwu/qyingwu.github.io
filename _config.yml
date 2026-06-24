@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Qiying Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineer at Amazon; MSCS student at UT Austin"
+  bio              : "Software Engineer at Visa; M.S. student at UT Austin"
   location         : "San Jose, CA"
   employer         : "University of Texas at Austin"
   uri              : # URL
   email            : "qiyingwu@utexas.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  arxiv            : "https://arxiv.org/abs/2606.00601"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=x71TPEkAAAAJ"
   impactstory      : # URL
   orcid            : 
   semantic         : # URL
