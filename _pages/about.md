@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Software engineer building backend and infrastructure systems, currently at Visa and pursuing an M.S. in Computer Science at UT Austin.
-
-My work sits at the intersection of distributed systems and machine learning. I’m most interested in reliable backend services, developer tooling, and practical ML systems.
+I'm a software engineer at Visa and an M.S. in Computer Science student at UT Austin. My work spans payment infrastructure, distributed systems, developer tooling, and practical machine learning.
 
 For a full background, see the [CV](/cv/), [Publications](/publications/), and [Portfolio](/portfolio/).
 
@@ -18,6 +16,13 @@ For a full background, see the [CV](/cv/), [Publications](/publications/), and [
 - Backend infrastructure and payment systems
 - Machine learning systems and applied research
 - Scalable, observable, production-grade services
+
+## A Few Details
+
+- Based in San Jose
+- Previously built systems at Amazon; now working on real-time payment platforms at Visa
+- Interested in both systems work and model work, especially when they meet in production
+- I enjoy reading, cycling, fishing, and carpentry outside of engineering
 
 ## Contact
 
